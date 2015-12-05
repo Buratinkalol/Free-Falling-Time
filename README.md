@@ -1,2 +1,3 @@
 # Free-Falling-Time
-Write in C; also "-std=c99"
+Write in C; 
+gcc {{name}} -lm -std=c99 -o {{name}}
